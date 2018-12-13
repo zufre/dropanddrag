@@ -1,0 +1,18 @@
+#output {
+background-color: beige;
+font-size: 24px;
+padding: 10%;
+}
+.pickmove{
+border:1px solid black;
+margin:25px;
+width:200px;
+height:100px;
+overflow: hidden;
+}
+#dropoff {
+border:1px solid black;
+width:400px;
+height:200px;
+background-color: aquamarine;
+}
